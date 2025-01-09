@@ -1,0 +1,21 @@
+# Ignore Python virtual environment
+env/
+
+# Ignore Python files
+*.pyc
+__pycache__/
+
+# Ignore React build artifacts
+frontend/node_modules/
+frontend/build/
+
+# Ignore environment variables
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
